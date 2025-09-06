@@ -7,9 +7,9 @@ Here are the hex codes of all my prefered colors
 #D8DBE2	“Ashen Silver” – a soft, cool light gray‑blue that works as a neutral backdrop.
 #23211F	“Midnight Slate” – a very dark, charcoal‑black that feels like the deep‑night shadow.
 
-#640000
-#8F0000
-#EBAA00
-#FFBB0F
-#d8dbe2
-#23211F
+rgba(100, 0, 0, 1)
+rgba(143, 0, 0, 1)
+rgba(235, 170, 0, 1)
+rgba(255, 187, 15, 1)
+rgba(216, 219, 226, 1)
+rgba(35, 33, 31, 1)
