@@ -1,0 +1,15 @@
+Here are the hex codes of all my prefered colors
+
+#640000	“Crimson Hearth” – a deep, almost burgundy‑black that feels like the glow of embers.
+#8F0000	“Saffron‑Red” – a darker, muted red that sits nicely below the brighter hues.
+#EBAA00	“Roman gold” – a warm, golden yellow that reminds us of the antiquity
+#FFBB0F	“Sun‑Lit Amber” – a bright, almost citrus‑orange that catches the eye.
+#D8DBE2	“Ashen Silver” – a soft, cool light gray‑blue that works as a neutral backdrop.
+#23211F	“Midnight Slate” – a very dark, charcoal‑black that feels like the deep‑night shadow.
+
+#640000
+#8F0000
+#EBAA00
+#FFBB0F
+#d8dbe2
+#23211F
